@@ -53,3 +53,17 @@ div.post p.summary {
   margin: 10px 0;
   line-height: 1.4 rem;
 }
+form.login, form.register {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+input {
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+  padding: 7px 7px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
